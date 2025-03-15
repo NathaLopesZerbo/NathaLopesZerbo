@@ -40,7 +40,7 @@
     <a href="mailto:nathalopeszerbo7@gmail.com" title="Envie um e-mail">
         <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
     </a>
-    <a href="www.linkedin.com/in/nathazerbo" target="_blank" title="Me siga no LinkedIn">
+    <a href="https://www.linkedin.com/in/NathaZerbo/" target="_blank" title="Me siga no LinkedIn">
         <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
     </a> 
   </div>
