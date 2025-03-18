@@ -60,7 +60,6 @@
 <div align="center">
   <h3>📊 Estatísticas Avançadas</h3>
   <div>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=NathaLopesZerbo&theme=github-dark&hide_border=false" alt="Estatísticas de streak">
     <img src="https://github-profile-trophy.vercel.app/?username=NathaLopesZerbo&theme=darkhub&no-frame=false&margin-w=15" alt="Troféus no GitHub">
   </div>
 </div>
