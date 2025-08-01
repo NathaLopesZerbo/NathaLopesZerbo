@@ -21,7 +21,7 @@
 </p>
 
 ### Tecnologias que utilizo:
-<div align="center" style="display: flex; gap: 30px; flex-wrap: wrap;">
+<div align="center" style="display: flex; gap: 130px; flex-wrap: wrap;">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" height="40" width="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/quasar/quasar-original.svg" alt="Quasar" height="40" width="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" height="40" width="40">
