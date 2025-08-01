@@ -26,8 +26,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/quasar/quasar-original.svg" alt="Quasar" height="40" width="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" height="40" width="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" height="40" width="40">
-    <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="Laravel" height="40" width="40">
+  <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="Laravel" height="40" width="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" height="40" width="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" height="40" width="40">
 </div>
 
 ### Contato:
