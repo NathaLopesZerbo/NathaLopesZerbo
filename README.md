@@ -51,7 +51,7 @@
 - 📚 Estudante de **Análise e Desenvolvimento de Sistemas** (ADS) no Claretiano.
 - 🎓 Concluí o curso técnico em **Desenvolvimento de Sistemas** na ETEC Armando Bayeux da Silva.
 - 💻 Experiência com **VUEjs, Quasar, Typescript, PHP, Laravel e MySQL**.
-- 🚀 Buscando **Estagiando na empresa CRM Soluções em desenvolvimento web**.
+- 🚀 Estou **Estagiando na empresa CRM Soluções em desenvolvimento web**.
 - 🌎 Apaixonado por tecnologia e aprendizado contínuo!
 
 ---
