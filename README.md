@@ -56,15 +56,6 @@
 
 ---
 
-<div align="center">
-  <h3>📊 Estatísticas Avançadas</h3>
-  <div>
-    <img src="https://github-profile-trophy.vercel.app/?username=NathaLopesZerbo&theme=darkhub&no-frame=false&margin-w=15" alt="Troféus no GitHub">
-  </div>
-</div>
-
----
-
 
 
 
