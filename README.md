@@ -1,10 +1,5 @@
 ## 👨🏻‍💻 Nathã Lopes Zerbo
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NathaLopesZerbo&show_icons=true&theme=github_dark" alt="Estatísticas de GitHub">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathaLopesZerbo&layout=compact&theme=github_dark" alt="Línguas mais usadas no GitHub">
-</div>
-
 <p align="center">
   <a href="https://github.com/NathaLopesZerbo?tab=repositories&sort=stargazers" title="Total de estrelas no GitHub">
       <img 
